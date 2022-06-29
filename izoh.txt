@@ -1,0 +1,5 @@
+1. react yaratib componentlarnga bo`lib ichiga qiymatlarni joylab chiqamiz.
+
+2. addTransaction.js da useState dan foydalanamiz.
+3. useState dan foydalanganimizni ko`rish uchun chromdagi react Components degan joyiga kiramiz va inputga qiymat yozamiz.
+
